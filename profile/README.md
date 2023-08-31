@@ -15,5 +15,6 @@ The Geospatial Data Intelligence (GeoDI) Lab is a research group at the Universi
 We aim to generate both theoretical and actionable insights from spatiotemporal information by exploring the frontiers that bridge:
 * Geospatial analytics
 * Artificial intelligence
-* Human-environment systems. 
+* Human-environment systems
+  
 Integrated thinking and cross-disciplinary approaches are combined to facilitate Intelligent Spatial Analytics and Geographic Knowledge Discovery. Applications focus on the human-environment complexities within urban dynamics, human mobility, air pollution, transportation, public health, socioeconomics, sustainability, location business, and many more.

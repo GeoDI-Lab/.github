@@ -11,6 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-The Geospatial Data Intelligence (GeoDI) Lab is a research group based at University of Minnesota. 
-We aim to generate both theoretical and actionable insights from spatiotemporal data by exploring the frontiers that bridge geospatial analytics, artificial intelligence, and social sensing. 
-Integrated thinking and cross-disciplinary methods are used in our works to facilitate Intelligent Spatial Understanding and Geographic Knowledge Discovery, focusing on the human-environment complexities within socioeconomic sustainability, population dynamics, transportation, location business, public health, and many more.
+The Geospatial Data Intelligence (GeoDI) Lab is a research group at the University of Minnesota, Twin Cities. 
+We aim to generate both theoretical and actionable insights from spatiotemporal information by exploring the frontiers that bridge:
+* Geospatial analytics
+* Artificial intelligence
+* Human-environment systems. 
+Integrated thinking and cross-disciplinary approaches are combined to facilitate Intelligent Spatial Analytics and Geographic Knowledge Discovery. Applications focus on the human-environment complexities within urban dynamics, human mobility, air pollution, transportation, public health, socioeconomics, sustainability, location business, and many more.

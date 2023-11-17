@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-The Geospatial Data Intelligence (GeoDI) Lab （geodi.umn.edu） is a research group at the University of Minnesota, Twin Cities. 
+The Geospatial Data Intelligence (GeoDI) Lab is a research group at the University of Minnesota, Twin Cities. 
 We aim to generate both theoretical and actionable insights from spatiotemporal information by exploring the frontiers that bridge:
 * Geospatial analytics
 * Artificial intelligence
